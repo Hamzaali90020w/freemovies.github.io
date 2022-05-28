@@ -119,6 +119,12 @@
       /* justify-items: center;
     align-self: center; */
   }
+  .mirzapur-2{
+    display: flex;
+    flex-wrap:wrap;
+    /* justify-items: center;
+  align-self: center; */
+  }
   a:link {
     text-decoration: none;
   }
@@ -137,4 +143,11 @@
       #navop{
       width: 59vh;  
       }
+  }
+
+  .igo {
+    display: inline;
+  }
+  .wo{
+    text-align: center;
   }
