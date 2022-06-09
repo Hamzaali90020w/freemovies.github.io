@@ -135,7 +135,10 @@
       color: rgb(0, 0, 0);
      
   }
-  
+  .tvs{
+    display: inline-block;
+  }
+
   @media only screen and (max-width: 768px){
       .mirzapur-1{
         width: 59vh; 
